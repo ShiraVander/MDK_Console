@@ -106,6 +106,8 @@ namespace Работа_с_консолькой
             Console.WriteLine("");
 
             //Hai!
+
+            Console.WriteLine("Hello world!");
         }
     }
 }
