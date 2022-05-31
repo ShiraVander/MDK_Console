@@ -104,6 +104,8 @@ namespace Работа_с_консолькой
             Console.WriteLine("13.  5√(x^2 + b) - (b^2sin^3(x+a)) / x;  При a=0.1, b = 0.2, x = 1");
             Console.WriteLine(bn - poi);
             Console.WriteLine("");
+
+            //Hai!
         }
     }
 }
